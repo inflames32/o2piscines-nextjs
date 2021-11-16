@@ -1,0 +1,24 @@
+{
+  "logos": [
+    {
+      "logoName": "logo1",
+      "src": "/piscines/istockphoto-1031321148-612x612.jpg"
+    },
+    {
+      "logoName": "logo2",
+      "src": "/piscines/istockphoto-1033890742-612x612.jpg"
+    },
+    {
+      "logoName": "logo3",
+      "src": "/piscines/istockphoto-1041637904-612x612.jpg"
+    },
+    {
+      "logoName": "logo4",
+      "src": "/piscines/istockphoto-1068227730-612x612.jpg"
+    },
+    {
+      "logoName": "logo5",
+      "src": "/piscines/istockphoto-1071297606-612x612.jpg"
+    }
+  ]
+}

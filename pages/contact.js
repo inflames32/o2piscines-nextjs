@@ -18,8 +18,8 @@ export default function Contact() {
       </div>
       <div>
         <span>Me contacter</span>
-        <span>Henry Mickael</span>
-        <span>31100 St Simon</span>
+        <span>Nom</span>
+        <span>Adresse</span>
       </div>
     </div>
   );
